@@ -20,7 +20,7 @@ public class appConfig {
 	public static String defaultCountry = "TR";
 	
 	
-	//DEV
+	//DEV ... you should set your own credentials to related parameters.
 	public static String binanceUrl = "https://api.binance.com";
 	public static String binanceSpotKey = "<your_key>";
 	public static String binanceSpotSecret = "<your_secret>";
